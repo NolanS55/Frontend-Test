@@ -17,9 +17,13 @@ export default function Home() {
                     <h3>Steps:</h3>
                     <ol>
                         <li>
-                            Code Location: Please complete your answer in{" "}
+                            Code Location: Please complete your answer in{
+                                " "
+
+
+                            }
                             <code>modules/test</code>. You may start your answer
-                            after <code>// Your Test Starts Here</code>
+                            after <code>Your Test Starts Here</code>
                         </li>
                         <li>
                             Component Requirement: This component is essentially
@@ -34,7 +38,7 @@ export default function Home() {
                                     input area.
                                 </li>
                                 <li>
-                                    Every item should have its own "Delete"
+                                    Every item should have its own Delete
                                     button. Once clicked, only the corresponding
                                     item will be deleted.
                                 </li>
